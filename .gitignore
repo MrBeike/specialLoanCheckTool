@@ -2,6 +2,6 @@
 .vscode
 *.dat
 *.xlsx
-*.iconv*
-.ipynb
+*.ico
+*.ipynb
 ./
